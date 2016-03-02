@@ -1,0 +1,13 @@
+title James Bond Scenario
+
+
+note right of Bond: Bond is in leisure mode
+Villain->Bond: Peng
+Bond->Villain: MissedMe
+Regisseur->Bond: Action
+Bond->Bond: DoubleZeroMode
+note right of Bond: Bond is in double zero mode
+Villain->Bond: Peng
+Bond-> Villain: Paff
+Villain-> Villain: PoisonPill
+note left of Villain: Dead
