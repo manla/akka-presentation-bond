@@ -12,7 +12,7 @@ Of course, in the end Bond will kill the villains :-)
 
 Provided that sbt version 0.13.x or later is installed, 
 the scenario can be run by going into directory 'bond-actor'
-and typing 'sbt run'.
+and typing 'sbt run'. The first time, there might be some downloads.
 
 Classes:
 - Scenario shows the creation of actors
