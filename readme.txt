@@ -10,8 +10,9 @@ It illustrates the most basic features of akka implementing
 a little James Bond scenario sketched in the presentation.
 Of course, in the end Bond will kill the villains :-)
 
-Provided that sbt is installed, the scenario can be run by 
-going into directory 'bond-actor' and typing 'sbt run'.
+Provided that sbt version 0.13.x or later is installed, 
+the scenario can be run by going into directory 'bond-actor'
+and typing 'sbt run'.
 
 Classes:
 - Scenario shows the creation of actors
